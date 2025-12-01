@@ -1,4 +1,4 @@
-id,City,Year,Sport,Discipline,Symbol,Event,Athlete First Name,Athlete Last Name,Gender,Country Code,Country,Medal
+id,City,Year,Sport,Discipline,Symbol,Event,AthleteFirstName,AthleteLastName,Gender,Country Code,Country,Medal
 1,Athens,2004.0,Aquatics,Diving,https://stillimg.olympic.org/sports/240x240/dv.png?interpolation=lanczos-none&resize=480:480,3m springboard, Alexandre,Despatie,Men,CAN,Canada,Silver
 2,Athens,2004.0,Aquatics,Diving,https://stillimg.olympic.org/sports/240x240/dv.png?interpolation=lanczos-none&resize=480:480,3m springboard, Dmitry,Sautin,Men,RUS,Russia,Bronze
 3,Athens,2004.0,Aquatics,Diving,https://stillimg.olympic.org/sports/240x240/dv.png?interpolation=lanczos-none&resize=480:480,3m springboard, Ioulia,Pakhalina,Women,RUS,Russia,Bronze
